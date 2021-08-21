@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewFirebase_Notification</string>
+    <string name="notification_tittle">Notification Tittle</string>
+    <string name="notification_discription">Notification Discription</string>
+    <string name="msg_token_fmt">token</string>
+</resources>
